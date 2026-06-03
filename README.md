@@ -4,7 +4,7 @@ This repository hosts a technical report on the microwave RF characterization of
 
 The project investigates whether Ultra-High Frequency (UHF) radio sensing can detect concentration-dependent differences in aqueous nanoparticle samples, motivated by the longer-term possibility of developing more accessible and non-invasive sensing approaches for health diagnostics. The study combines HFSS simulation, physical RF measurements using a USRP N210 SDR, signal-processing techniques, and machine learning classification to evaluate whether gold and silver nanoparticle solutions produce measurable RF signatures.
 
-> This repository contains the PDF report only. Source code, raw measurement data, and simulation files are not included.
+> This repository contains the PDF report only. Source code, raw measurement data, and simulation files are not included. If you are interested in the underlying methodology, data, or simulation workflow, please feel free to contact me through my GitHub profile or by opening an issue in this repository.
 
 ## Report
 
