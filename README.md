@@ -69,9 +69,9 @@ If referencing this work, please cite it as:
 ## Author
 
 **Toh Yun Sheng Nelson**
-Master of Computing
-National University of Singapore
-2026
+, Master of Computing
+, National University of Singapore
+, 2026
 
 ## Notes
 
